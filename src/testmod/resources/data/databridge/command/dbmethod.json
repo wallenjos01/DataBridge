@@ -1,0 +1,5 @@
+{
+  "name": "dbmethod",
+  "type": "method",
+  "value": "org.wallentines.databridge.TestCommand::execute"
+}
