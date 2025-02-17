@@ -4,8 +4,10 @@
   "package": "org.wallentines.databridge.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "MixinServerFunctionLibrary",
-    "MixinServerResources"
+    "AccessorServerFunctionLibrary",
+    "MixinDataLoader",
+    "MixinServerResources",
+    "MixinVanillaRegistries"
   ],
   "client": [],
   "server": [],
