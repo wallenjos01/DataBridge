@@ -1,3 +1,4 @@
 {
-  "class": "org.wallentines.databridge.TestState"
+  "type": "org.wallentines.databridge.TestState",
+  "factory": "org.wallentines.databridge.TestState::create"
 }
