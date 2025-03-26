@@ -1,4 +1,5 @@
 {
   "type": "org.wallentines.databridge.TestState",
-  "factory": "org.wallentines.databridge.TestState::create"
+  "factory": "org.wallentines.databridge.TestState::create",
+  "destructor": "org.wallentines.databridge.TestState::cleanup"
 }
