@@ -7,7 +7,7 @@ import org.spongepowered.asm.mixin.Implements;
 import org.spongepowered.asm.mixin.Interface;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
-import org.wallentines.databridge.CommandSourceStackExtension;
+import org.wallentines.databridge.impl.CommandSourceStackExtension;
 
 
 @Mixin(CommandSourceStack.class)

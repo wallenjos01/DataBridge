@@ -9,10 +9,10 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Mutable;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
-import org.wallentines.databridge.CommandDefinition;
-import org.wallentines.databridge.DataBridgeRegistries;
-import org.wallentines.databridge.JavaFunctionDefinition;
-import org.wallentines.databridge.StateObject;
+import org.wallentines.databridge.impl.CommandDefinition;
+import org.wallentines.databridge.impl.DataBridgeRegistries;
+import org.wallentines.databridge.impl.JavaFunctionDefinition;
+import org.wallentines.databridge.impl.StateObject;
 
 import java.util.List;
 import java.util.stream.Stream;

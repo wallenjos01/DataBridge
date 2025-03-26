@@ -26,7 +26,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
-import org.wallentines.databridge.CommandSourceStackExtension;
+import org.wallentines.databridge.impl.CommandSourceStackExtension;
 
 import java.util.ArrayList;
 import java.util.List;

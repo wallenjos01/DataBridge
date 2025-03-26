@@ -15,8 +15,8 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyVariable;
-import org.wallentines.databridge.JavaFunctionDefinition;
-import org.wallentines.databridge.ServerFunctionLibraryExtension;
+import org.wallentines.databridge.impl.JavaFunctionDefinition;
+import org.wallentines.databridge.impl.ServerFunctionLibraryExtension;
 
 import java.util.Map;
 import java.util.concurrent.CompletableFuture;

@@ -11,13 +11,13 @@ import net.minecraft.server.ReloadableServerRegistries;
 import net.minecraft.server.ReloadableServerResources;
 import net.minecraft.server.packs.resources.ResourceManager;
 import net.minecraft.world.flag.FeatureFlagSet;
-import org.spongepowered.asm.mixin.*;
+import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
-import org.wallentines.databridge.DataBridgeRegistries;
-import org.wallentines.databridge.ServerFunctionLibraryExtension;
-import org.wallentines.databridge.StateObject;
+import org.wallentines.databridge.impl.DataBridgeRegistries;
+import org.wallentines.databridge.impl.ServerFunctionLibraryExtension;
+import org.wallentines.databridge.impl.StateObject;
 
 import java.util.List;
 import java.util.concurrent.CompletionStage;

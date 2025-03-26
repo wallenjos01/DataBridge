@@ -10,8 +10,8 @@ import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
-import org.wallentines.databridge.CommandSourceStackExtension;
-import org.wallentines.databridge.EntitySelectorExtension;
+import org.wallentines.databridge.impl.CommandSourceStackExtension;
+import org.wallentines.databridge.impl.EntitySelectorExtension;
 
 import java.util.List;
 

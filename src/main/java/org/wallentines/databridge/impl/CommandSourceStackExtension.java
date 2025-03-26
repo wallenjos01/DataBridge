@@ -1,7 +1,9 @@
-package org.wallentines.databridge;
+package org.wallentines.databridge.impl;
 
 import net.minecraft.world.entity.Entity;
+import org.jetbrains.annotations.ApiStatus;
 
+@ApiStatus.Internal
 public interface CommandSourceStackExtension {
 
     Entity getTriggerEntity();
