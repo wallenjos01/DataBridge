@@ -1,5 +1,5 @@
 {
     "type": "object",
-    "value": "org.wallentines.databridge.TestFunction",
+    "value": "org.wallentines.databridge.TestFunction::create",
     "state_object": "databridge:test"
 }
