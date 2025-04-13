@@ -1,7 +1,9 @@
 package org.wallentines.databridge.impl;
 
 import net.minecraft.resources.ResourceLocation;
+import org.jetbrains.annotations.ApiStatus;
 
+@ApiStatus.Internal
 public class DatabridgeFunctionTags {
 
     public static final ResourceLocation JOIN = ResourceLocation.withDefaultNamespace("join");
