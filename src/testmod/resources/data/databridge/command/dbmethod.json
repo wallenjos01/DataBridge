@@ -1,6 +1,0 @@
-{
-  "name": "dbmethod",
-  "type": "method",
-  "value": "org.wallentines.databridge.TestCommand::execute",
-  "state_object": "databridge:test"
-}

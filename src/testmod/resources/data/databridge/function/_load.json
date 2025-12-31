@@ -1,5 +1,0 @@
-{
-    "type": "method",
-    "value": "org.wallentines.databridge.TestFunction::funcTestLoad",
-    "state_object": "databridge:test"
-}
