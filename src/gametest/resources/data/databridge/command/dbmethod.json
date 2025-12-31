@@ -1,6 +1,6 @@
 {
-  "name": "dbmethod",
-  "type": "method",
-  "value": "org.wallentines.databridge.test.TestCommands::execute",
-  "state_object": "databridge:test"
+    "name": "dbmethod",
+    "type": "method",
+    "value": "org.wallentines.databridge.test.TestCommands::execute",
+    "state_object": "databridge:test"
 }

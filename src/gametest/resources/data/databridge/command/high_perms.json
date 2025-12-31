@@ -1,0 +1,8 @@
+{
+    "name": "high_perms",
+    "type": "method",
+    "value": "org.wallentines.databridge.test.TestCommands::execute",
+    "state_object": "databridge:test",
+    "permission_level": "owners",
+    "permission_node": "databridge.test"
+}
